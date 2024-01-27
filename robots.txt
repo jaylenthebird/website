@@ -1,6 +1,3 @@
-User-agent: *
-Disallow: /accounts
-
 User-agent: ChatGPT-User
 User-agent: GPTBot
 User-agent: FacebookBot
